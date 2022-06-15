@@ -13,5 +13,5 @@ export const site: SiteConfig = {
     status: '🌸',
     bio: 'hey isn\'t this nice.'
   },
-  themeColor: '#0d1117'
+  themeColor: '#3d4451'
 }
