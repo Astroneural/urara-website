@@ -1,11 +1,11 @@
 ---
-title: 'Hello World'
+title: 'Hi World!'
 date: 2022-15-22
 lastmod: 2022-15-22
 tags:
   - 'Hello World'
   - 'Urara'
-cover: '/hello-world/cover.webp'
+cover: ''
 ---
 
 So let's see how this works.
