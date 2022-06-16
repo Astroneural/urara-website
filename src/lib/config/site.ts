@@ -9,7 +9,7 @@ export const site: SiteConfig = {
   description: 'Powered by SvelteKit/Urara',
   author: {
     name: 'Shaum',
-    photo: '/assets/maskable@192.png',
+    photo: 'https://lh3.googleusercontent.com/a-/AOh14Ggr4G6iQsNn7Zmm6DU_J1qLpDYDZqVIf_5E01kfzA=s432-p-rw-no',
     status: '🌸',
     bio: 'Hello World!'
   },
