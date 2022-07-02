@@ -10,7 +10,7 @@ cover: ''
 ---
 
 So let's see how this works.
-
+Does the page update?
 ## Code
 
 Let's test some code.
