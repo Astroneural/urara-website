@@ -1,12 +1,12 @@
 
 ---
-title: 'Hi World! Can you hear me?'
-date: 2022-15-23
-lastmod: 2022-15-23
+title: 'Hello World, can you hear me?'
+date: 2022-7-10
+lastmod: 2022-7-10
 tags:
   - 'Hello World'
   - 'Urara'
-cover: ''
+cover: '/hello-world/cover.webp'
 ---
 
 So let's see how this works.
